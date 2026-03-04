@@ -11,6 +11,9 @@
   --breakpoint-2xl: 82.5rem; /* 1320px */
 }
 
+/* * {
+  border: 1px solid black;
+}  */
 @utility container {
   margin-inline: auto; /* center: true */
   padding-inline: 1rem; /* 16px */
